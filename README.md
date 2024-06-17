@@ -1,1 +1,5 @@
-# Rios_Gonzalo_Agustin
+# Curso de programación full stack
+## MÓDULO 2 - Repositorio y WorkFlow
+### Silicon Misiones - https://siliconmisiones.gob.ar/
+#### Autor: Rios Gonzalo Agustin
+###### Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
